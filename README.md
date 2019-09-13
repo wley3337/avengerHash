@@ -1,4 +1,4 @@
-# Avengers unite!
+# Avengers Unite!
 
 ## Goals
 The new wave of nearly unbeatable enemies are here and we need to build our Avengers squad! 
